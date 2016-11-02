@@ -27,8 +27,8 @@ header {       /*about.htmlの */
 }
 
 #logo img {  /*about.htmlのdiv id="logo" */
-    max-width: 200px;  /*about.htmlのdiv id="logo" */
-    border: 5px solid #0992F5;　/*縁の幅と色 */
+    max-width: 120px;  /*about.htmlのdiv id="logo" */
+    border: 5px solid #fff;　/*縁の幅と色 */
     border-radius:100% ;
 }
 

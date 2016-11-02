@@ -1,9 +1,0 @@
-p, p:before {
-  position:absolute;
-  top:0;
-  left:0;
-}
-p:before {
-  display:block;
-  content:attr(title);
-}
