@@ -14,7 +14,7 @@ span.red {           /*about.htmlの<span class="red">～</span>の文字色 */
 }
 
 header {       /*about.htmlの */
-    background-image: url("bg.jpg");
+    background-image: url("background1.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -27,8 +27,8 @@ header {       /*about.htmlの */
 }
 
 #logo img {  /*about.htmlのdiv id="logo" */
-    max-width: 120px;  /*about.htmlのdiv id="logo" */
-    border: 5px solid #fff;　/*縁の幅と色 */
+    max-width: 100px;  /*about.htmlのdiv id="logo" */
+    border: 5px solid #e4007f;　/*縁の幅と色 */
     border-radius:100% ;
 }
 
@@ -68,7 +68,7 @@ nav ul li a.selected {
 .container {
     max-width: 800px;
     margin: -100px auto 0;
-    background-color: #fff;
+    background-color: #FFE4B5;
 }
 
 section {
@@ -83,8 +83,9 @@ section h2 {
 
 footer {
     padding: 20px 0;
-    font-size: 93%;
+    font-size: 80%;
     text-align: center;
-    background-color: #ccc;
-    color: #666;
+    background-color: #DCDCDC;
+    color: #fff;
+    
 }
