@@ -1,0 +1,28 @@
+.bg{
+    background-image: url("bg3.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-bottom: 500px;
+}
+.textgroup {
+    display:block;
+    text-align:center;
+    margin:0 0 1.6em;
+    text-shadow:-10px -10px 6px #FF00FF, 10px 10px 6px #FFD700;
+}
+
+.linkcenter{
+    
+    text-align:center;
+    text-shadow:3px 6px 8px #333333;
+    font-size: 1.5em;
+    letter-spacing: 5px;
+    
+    
+}
+
+.logocenter{
+    text-align:center;
+}
